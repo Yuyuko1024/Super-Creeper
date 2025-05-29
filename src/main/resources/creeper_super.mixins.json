@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "First.creeper_super.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "creeper_super.refmap.json",
+  "mixins": [
+    "CreeperMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
