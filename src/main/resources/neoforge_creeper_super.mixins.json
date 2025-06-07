@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "First.neoforge_creeper_super.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "neoforge_creeper_super.refmap.json",
+  "mixins": [
+    "CreeperMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
